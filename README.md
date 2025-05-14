@@ -25,33 +25,7 @@ spam-detector/
 ├── spam_model.pkl          # Trained spam classification model
 ├── tfidf_vectorizer.pkl    # TF-IDF vectorizer used for preprocessing
 ├── requirements.txt        # Project dependencies
-```
 
----
-
-## 🛠️ Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/spam-detector.git
-cd spam-detector
-```
-
-2. **Create a virtual environment (optional but recommended):**
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 🚀 How to Run the App
 
@@ -59,7 +33,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Once started, the app will open in your default browser. Enter a message in the text area, and the model will predict whether it is spam or not.
+Once started, the app will open in  default browser. Enter a message in the text area, and the model will predict whether it is spam or not.
 
 ---
 
@@ -85,6 +59,4 @@ Main packages include:
 
 ---
 
-## ✍️ Author
 
-Created by [Your Name Here] – feel free to contribute or share feedback!
