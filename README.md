@@ -58,5 +58,6 @@ Main packages include:
 - `joblib==1.3.2`
 
 ---
+[![Hugging Face Demo](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/Fatima1shah/spam_detector)
 
 
